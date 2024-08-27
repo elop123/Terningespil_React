@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './Alikhans.module.scss';  // Use module.scss for scoped styling
+import styles from './Alikhans.module.scss';  
 
 const pizzaDice = [
   '/pizza1.png',

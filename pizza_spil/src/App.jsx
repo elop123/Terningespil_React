@@ -1,16 +1,12 @@
-import { useState } from 'react'
-import Dice from './components/Dice'
-
-import './App.css'
+import React from 'react';
+import Alikhan from './components/Alikhans/Alikhan.jsx';
 
 function App() {
-
-
   return (
     <>
-     <Dice />
+      <Alikhan />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

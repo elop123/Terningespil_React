@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .background {
+    background-image: url('/pizza_spil/src/assets/images/backgroundBox4.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .diceContainer {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .dice img {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .scores {
+    margin: 20px;
+  }
+  

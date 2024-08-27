@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './Alikhans.module.scss';  
+import styles from '/src/components/Alikhans/Alikhans.module.scss';  
 
 const pizzaDice = [
   '/pizza1.png',

@@ -9,6 +9,9 @@ function App() {
   return (
     <>
      <Dice />
+     <Dice />
+     <Dice />
+
     </>
   )
 }
